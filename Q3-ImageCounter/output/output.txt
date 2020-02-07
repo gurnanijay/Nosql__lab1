@@ -1,0 +1,3 @@
+GIF Images	1267
+JPG Images	20063
+Other Images	1568
